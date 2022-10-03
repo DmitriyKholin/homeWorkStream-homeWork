@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/homeWorkStream-homeWork.iml" filepath="$PROJECT_DIR$/.idea/homeWorkStream-homeWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homeWorkStream-homeWork/web-calculator.iml" filepath="$PROJECT_DIR$/homeWorkStream-homeWork/web-calculator.iml" />
+    </modules>
+  </component>
+</project>
